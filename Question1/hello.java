@@ -30,7 +30,7 @@ class hello{
         }
         hello obj=new hello();
         int result=obj.secondLargest(arr);
-        System.out.println("The second largest is "+result);
+        System.out.println("The second Largest is "+result);
 
        
     }
